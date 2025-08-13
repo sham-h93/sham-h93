@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi there 👋 I am Hossein</h1>
 <p align="center">
-I’m an Android developer with over 4 years of experience. I’m passionate about learning, discovering new technologies, and expanding my knowledge. I believe the best way to learn is through experience and building, so I’m always experimenting with new technologies and strengthening my skills. In addition to technical expertise, I value effective communication, teamwork, and a dynamic professional environment.
+I’m an experienced Android developer. I’m passionate about learning, discovering new technologies, and expanding my knowledge. I believe the best way to learn is through experience and building, so I’m always experimenting with new technologies and strengthening my skills. In addition to technical expertise, I value effective communication, teamwork, and a dynamic professional environment.
 </p>
 
 <div align="center">
