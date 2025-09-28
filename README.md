@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 I’m an experienced Android developer, passionate about learning, discovering new technologies, and expanding my knowledge. I believe the best way to learn is through experience and building, so I’m always experimenting with new technologies and strengthening my skills.
 </p>
 
-[![Hossein Shamkhani profile views](https://u8views.com/api/v1/github/profiles/58330824/views/day-week-month-total-count.svg)](https://u8views.com/github/sham-h93)
 
 
 <div align="center">
